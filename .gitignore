@@ -2,12 +2,3 @@
 **/Build
 **/Pods
 **/.DS_Store
-
-# Tuist derived files
-graph.dot
-Derived/
-Tuist/Dependencies
-
-# XCode
-*.xcodeproj/*
-*.xcworkspace/*
